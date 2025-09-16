@@ -1,12 +1,47 @@
-# React + Vite
+# Interview Drill App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, mobile-friendly web app to **store, practice, and drill interview questions** with **my own natural answers** — anytime, anywhere.  
 
-Currently, two official plugins are available:
+This is a personal learning project built in public as part of my **software developer interview prep**.  
+Feel free to explore or fork the code for your own practice.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack (MVP)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React + Vite** — fast, modern front-end setup  
+- **TailwindCSS** — styling made simple  
+- **LocalStorage** — save answers locally (no backend yet)  
+- **Deployed** on Vercel/Netlify (coming soon)
+
+---
+
+## 🎯 MVP Features
+
+- Browse questions by topic & difficulty (Easy/Medium/Hard)  
+- Expand to view or hide answers  
+- Random question drill mode  
+- Edit and save your own answers locally  
+
+---
+
+## 📌 Project Status
+
+- ✅ Repo created & React + Vite scaffolded  
+- 🔄 Setting up TailwindCSS  
+- ⏳ Phase 1: Display questions + randomizer
+
+---
+
+## 📝 License
+
+This project is open source under the [MIT License](LICENSE).  
+You are free to use, modify, and share it — attribution appreciated.
+
+---
+
+## 👤 About
+
+Built by [Patricia Kennedy](https://github.com/patckennedy)  
+as a **learning + portfolio project** to document my growth toward  
+Front-End & Full-Stack Developer roles.
